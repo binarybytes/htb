@@ -1,0 +1,11 @@
+catrographer
+
+<1>check out sloc
+--<1a>bforce?(no obv devsec/no userinput data validation)
+---<1b>no pword limits
+<2>try sql.inj
+--<2a>u='-' pwd='-'
+---<2b>any sql.inj works
+<3>parameters(info=home)
+--<3a>try a new one (info=flag)
+
